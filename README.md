@@ -74,11 +74,11 @@ Automated parking system using Arduino + RFID with Android monitoring.
 # 📊 GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sourabh-devrukhkar&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-devrukhkar&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -86,7 +86,7 @@ Automated parking system using Arduino + RFID with Android monitoring.
 # ⚡ Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh-devrukhkar&theme=tokyo-night"/>
 </p>
 
 ---
@@ -104,8 +104,7 @@ Automated parking system using Arduino + RFID with Android monitoring.
 
 📧 [sourabh.dev9065@gmail.com](mailto:sourabh.dev9065@gmail.com)
 💼 LinkedIn
-💻 GitHub
 
----
+--
 
 ⭐ *I enjoy building machines that move, sense, and make decisions.*
