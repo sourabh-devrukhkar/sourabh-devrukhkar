@@ -86,7 +86,7 @@ Automated parking system using Arduino + RFID with Android monitoring.
 # ⚡ Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh-devrukhkar&bg_color=0d1117&color=5BCDEC&line=00F7FF&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh-devrukhkar&theme=tokyo-night&area=true"/>
 </p>
 
 ---
