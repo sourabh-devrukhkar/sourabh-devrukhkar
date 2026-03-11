@@ -1,30 +1,8 @@
-## Hi there 👋
-
-<!--
-**sourabh-devrukhkar/sourabh-devrukhkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Robotics themed header -->
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sourabh%20Devrukhkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20Automation%20%7C%20AI%20for%20Machines&descAlignY=60"/>
 </p>
 
 <h3 align="center">⚙️ Mechatronics Engineer building robots, automation systems, and intelligent machines</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Robotics+Builder;Industrial+Automation+Engineer;AI+for+Machines;Embedded+Systems+Developer"/>
-</p>
 
 ---
 
