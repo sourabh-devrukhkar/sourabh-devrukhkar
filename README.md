@@ -1,110 +1,93 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sourabh%20Devrukhkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%7C%20Automation%20%7C%20AI%20for%20Machines&descAlignY=60"/>
-</p>
-
-<h3 align="center">⚙️ Mechatronics Engineer building robots, automation systems, and intelligent machines</h3>
-
----
-
-# 🤖 What I'm Working On
-
-I enjoy building **machines that interact with the real world**.
-
-Current interests:
-
-• robotics systems
-• industrial automation
-• embedded intelligence
-• reinforcement learning for machines
+<div align="center">
+  
+  # Sourabh Devrukhkar
+  ### Robotics | Automation | AI for Machines
+  
+  **⚙️ Mechatronics Engineer building robots, automation systems, and intelligent machines**
+  
+</div>
 
 ---
 
-# 🧰 Tools & Technologies
+### 🤖 Current Focus & Interests
 
-### Programming
+I enjoy building machines that interact with the real world, move, sense, and make decisions. 
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c"/>
-</p>
+* **Robotics & Automation:** Industrial automation, smart manufacturing, and mechanical linkage systems.
+* **Intelligent Machines:** Reinforcement learning for machines, embedded intelligence, and AI for robotics.
+* **Design & Simulation:** Prototyping and 3D modeling for functional mechanisms.
 
-### Robotics & Embedded
+---
+### 🚀 What I'm Up To
 
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux"/>
-</p>
-
-### Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=matlab,git,github,vscode"/>
-</p>
-
-### Design
-
-SolidWorks • KiCad • Sensors • Actuators • Prototyping
+* **Currently Building:** Designing and 3D modeling a fully autonomous floor-cleaning robot.
+* **Core Focus:** Industrial automation, smart manufacturing, mechanical linkage systems, and AI for robotics.
+* **The Goal:** Pushing the boundaries of autonomous systems and engineering excellence.
 
 ---
 
-# 📦 Projects I'm Proud Of
+### 🧰 Tools & Technologies
 
-### 🚁 Autonomous Drone Navigation
+**Programming & Logic** <br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
 
-Reinforcement-learning based drone navigation built in MATLAB using Deep-Q Networks.
+**Robotics & Embedded Systems** <br>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-### 🦾 Cable Driven Robotic Arm
-
-Lightweight assistive robotic arm designed in SolidWorks and controlled using Arduino.
-
----
-
-### 🕷 Theo Jansen Walking Robot
-
-Four-legged walking robot using mechanical linkage system and IoT control.
-
----
-
-### 🚗 RFID Smart Parking System
-
-Automated parking system using Arduino + RFID with Android monitoring.
+**Hardware Design & Engineering** <br>
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E32526?style=for-the-badge&logo=dassault-systemes&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-# 📊 GitHub Dashboard
+### 📦 Projects 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sourabh-devrukhkar&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-devrukhkar&layout=compact&theme=tokyonight"/>
-</p>
+#### [🚁 Autonomous Drone Navigation]
+> Reinforcement-learning based drone navigation built in MATLAB using Deep-Q Networks.
 
----
 
-# ⚡ Contribution Activity
+#### [🦾 Cable Driven Robotic Arm]
+> Lightweight assistive robotic arm designed in SolidWorks and controlled using Arduino.
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sourabh-devrukhkar&theme=tokyo-night&area=true"/>
-</p>
 
----
+#### [🕷️ Theo Jansen Walking Robot]
+> Four-legged walking robot using mechanical linkage system and IoT control.
 
-# 🧠 Currently Exploring
-
-• AI for robotics
-• industrial IoT systems
-• reinforcement learning
-• smart manufacturing automation
+#### [🚘 RFID Smart Parking System]
+> Automated parking system using Arduino + RFID with Android monitoring.
 
 ---
 
-# 🌍 Find Me Around The Web
+### 📊 GitHub Activity
 
-📧 [sourabh.dev9065@gmail.com](mailto:sourabh.dev9065@gmail.com)
-💼 LinkedIn
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-devrukhkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
---
+---
 
-⭐ *I enjoy building machines that move, sense, and make decisions.*
+### 🌍 Let's Connect
+
+<div align="center">
+  
+  <a href="mailto:sourabh.dev9065@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sourabh-devrukhkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <em>⭐ I enjoy building machines that move, sense, and make decisions.</em>
+</div>
