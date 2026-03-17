@@ -20,7 +20,7 @@ I enjoy building machines that interact with the real world, move, sense, and ma
 ---
 ### 🚀 What I'm Up To
 
-* **Currently Building:** Designing and 3D modeling a fully autonomous floor-cleaning robot.
+* **Currently Building:** Designing and 3D modeling a fully autonomous-cleaning robot.
 * **Core Focus:** Industrial automation, smart manufacturing, mechanical linkage systems, and AI for robotics.
 * **The Goal:** Pushing the boundaries of autonomous systems and engineering excellence.
 
