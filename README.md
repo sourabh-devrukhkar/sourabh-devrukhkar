@@ -46,25 +46,6 @@ I enjoy building machines that interact with the real world, move, sense, and ma
 
 ---
 
-### 📦 Projects 
-
-
-#### [🚁 Autonomous Drone Navigation]
-> Reinforcement-learning based drone navigation built in MATLAB using Deep-Q Networks.
-
-
-#### [🦾 Cable Driven Robotic Arm]
-> Lightweight assistive robotic arm designed in SolidWorks and controlled using Arduino.
-
-
-#### [🕷️ Theo Jansen Walking Robot]
-> Four-legged walking robot using mechanical linkage system and IoT control.
-
-#### [🚘 RFID Smart Parking System]
-> Automated parking system using Arduino + RFID with Android monitoring.
-
----
-
 ### 📊 GitHub Activity
 
 <div align="center">
