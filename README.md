@@ -44,15 +44,11 @@ I enjoy building machines that interact with the real world, move, sense, and ma
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-devrukhkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sourabh-devrukhkar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 🌍 Let's Connect
 
